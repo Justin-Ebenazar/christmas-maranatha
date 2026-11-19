@@ -9,7 +9,7 @@ A cozy, lightweight desktop Christmas overlay utility built with Tauri, Rust, an
 Want to add some holiday spirit to your computer without messing with any code or installers? Here is how to get running in under a minute:
 
 ### 1. How to Open the App
-1. Download the latest `christmas-desktop.exe` file from the [Releases](https://github.com/Justin-Ebenazar/christmas-maranatha/releases) page.
+1. Download the latest `Maranatha_1.0.0_x64-setup.exe` file from the [Releases](https://github.com/Justin-Ebenazar/christmas-maranatha/releases) page.
 2. Double-click the file. That’s it! No installation wizards, no setup menus, and no complicated steps. It opens instantly.
 
 ### 2. How to Control It (System Tray)
@@ -20,7 +20,7 @@ When the app runs, you won't see a window taking up space on your taskbar or Alt
 
 ### 3. How to Uninstall (Remove It)
 Because this is a portable app, it doesn't leave files scattered across your computer or modify your system settings:
-* Simply **delete the `christmas-desktop.exe` file**. 
+* Simply **delete the `Maranatha_1.0.0_x64-setup.exe` file**. 
 * (Optional) If you want to clear your saved settings completely, delete the `Maranatha` folder located under `C:\Users\YourUsername\AppData\Roaming\`.
 
 ---
@@ -40,5 +40,5 @@ Maranatha is built for lightning-fast performance, low memory footprint, and nat
 1. **Prerequisites:** Make sure you have [Node.js](https://nodejs.org/), [Rust](https://www.rust-lang.org/), and the Tauri CLI installed.
 2. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/maranatha.git](https://github.com/YOUR_USERNAME/maranatha.git)
+   git clone [https://github.com/Justin-Ebenazar/christmas-maranatha](https://github.com/Justin-Ebenazar/christmas-maranatha.git)
    cd maranatha
